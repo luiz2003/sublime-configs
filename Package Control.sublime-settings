@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Atomic Color Scheme",
+		"Discord Rich Presence",
+		"Dracula Color Scheme",
+		"LSP",
+		"LSP-html",
+		"One Dark Material - Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-gcc",
+		"SublimeLinter-pylint",
+	],
+	"in_process_packages":
+	[
+	],
+}

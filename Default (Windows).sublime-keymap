@@ -1,0 +1,4 @@
+[
+	{ "keys": ["shift+alt+a"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["caps-lock"], "command": "cancel"}
+]

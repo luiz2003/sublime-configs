@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+//problem link
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	${1:}
+}
+]]></content>
+	<tabTrigger>init</tabTrigger>
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
